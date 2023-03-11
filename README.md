@@ -4,7 +4,7 @@ Hey there!
 
 We are a team of data science master students at Frankfurt School of Finance and Management. In this project we investigate the relationship between ESG factors and (financial) firm performance. Our final cleaned dataset consists of 6.946 individual firms with data across twenty years. Availability varies, so we end up with 50.736 observations in total.
 
-After we validated our data and completed an EDA, we proceeded to fit several ML-Models conditioned on different aspects like company size, region or industry. Our findings are in line with literature (https://www.sciencedirect.com/science/article/pii/S0929119921000092?via%3Dihub), alltough we were able to work out some interesting insights.
+After we validated our data and completed an EDA, we proceeded to fit ML-Models conditioned on different aspects like company size, region or industry. Our findings are in line with literature (https://www.sciencedirect.com/science/article/pii/S0929119921000092?via%3Dihub), alltough we were able to work out some interesting insights.
 
 ### Regression
 
