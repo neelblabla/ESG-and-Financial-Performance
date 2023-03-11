@@ -24,7 +24,7 @@ The dataset is skewed towards positive returns, which impacts the accuracy of ou
 
 YoY changes in ESG seem to be a better indicator of subsequent movements in financial metrics than same year absolute values
 
-Robustness of the model ensured by training the models for 100 iterations, each time on randomly split training and test sets
+Robustness of the results is ensured by training the models for 100 iterations, each time on randomly split training and test sets
 
 
 ### Description of folders:
